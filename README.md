@@ -5,8 +5,8 @@
 </p>
 
 
-<a href="W8"><img align="center" src="https://i.imgur.com/lLgFrTQ.png" alt="Scan QR" height="112" width="300" /></a>
+<a href="https://raganork-web.vercel.app/"><img align="center" src="SCAN QR" alt="Scan QR" height="112" width="300" /></a>
 
 
 
-<a href="https://heroku.com/deploy?template=https://github.com/SUHAID-BROO/PAATHU" target="blank"><img align="center" src="https://i.imgur.com/gtK4XLX.png" alt="Deploy bot" height="112" width="310" /></a>
+<a href="https://heroku.com/deploy?template=https://github.com/SUHAID-BROO/PAATHU" target="blank"><img align="center" src="DEPLOY" alt="Deploy bot" height="112" width="310" /></a>
