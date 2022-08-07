@@ -9,7 +9,7 @@
 </p>
 </div>
 <p align="center">
-𝐏𝐫𝐨𝐣𝐞𝐜𝐭 CREATED BY SUHAID BRO
+𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐂𝐫𝐞𝐚𝐭𝐞𝐝 𝐛𝐲 𝐒𝐮𝐡𝐚𝐢𝐝-𝐁𝐫𝐨𝐨
     <br>
        | © |
         Reserved |
