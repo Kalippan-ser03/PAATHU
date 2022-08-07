@@ -17,8 +17,6 @@
 </p>
 
 
-<a href="https://raganork-web.vercel.app/"><img align="center" src="https://i.imgur.com/VbFI0jB.png" alt="Scan QR" height="112" width="300" /></a>
-
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/https://raganork-web.vercel.app/)
 
 
@@ -27,4 +25,4 @@
 
 
 <a href="https://instagram.com/______suhaid"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-  <a href="https://chat.whatsapp.com/KVvR1XqnAuL3UJF2MEyNpr"><img src="https://img.shields.io/badge/BotGroup-25D366?style=for-the-badge&logo=whatsapp&logoColo
+  <a href="https://chat.whatsapp.com/KVvR1XqnAuL3UJF2MEyNpr"><img src="https://img.shields.io/badge/whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColo
