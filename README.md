@@ -21,4 +21,4 @@
 
 
 
-<a href="https://heroku.com/deploy?template=https://github.com/SUHAID-BROO/PAATHU" target="blank"><img align="center" src="https://i.imgur.com/gtK4XLX.png" alt="Deploy bot" height="112" width="310" /></a>
+<a href="https://heroku.com/deploy?template=https://github.com/SUHAID-BROO/PAATHU" target="blank"><img align="center" src="https://i.imgur.com/3BhSvUY.png" alt="Deploy bot" height="112" width="310" /></a>
