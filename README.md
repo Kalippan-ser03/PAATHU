@@ -17,9 +17,9 @@
 </p>
 
 
-<a href="https://raganork-web.vercel.app/"><img align="center" src="https://i.imgur.com/VbFI0jB.png" alt="Scan QR" height="112" width="300" /></a>
-
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/https://raganork-web.vercel.app/)
+
+
 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SUHAID-BROO/PAATHU.git)
