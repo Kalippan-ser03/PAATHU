@@ -19,9 +19,8 @@
 
 <a href="https://raganork-web.vercel.app/"><img align="center" src="https://i.imgur.com/VbFI0jB.png" alt="Scan QR" height="112" width="300" /></a>
 
-
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/https://raganork-web.vercel.app/)
 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SUHAID-BROO/PAATHU.git)
 
-<a href="https://heroku.com/deploy?template=https://github.com/SUHAID-BROO/PAATHU" target="blank"><img align="center" src="https://i.imgur.com/3BhSvUY.png" alt="Deploy bot" height="112" width="310" /></a>
