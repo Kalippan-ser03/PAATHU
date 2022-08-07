@@ -1,18 +1,18 @@
 {
-	"name": "Abu-MD",
-	"description": "Whatsapp Multi Version Abu Bot.",
-	"logo": "https://i.imgur.com/OseHc3b.jpg",
+	"name": "PAATHU",
+	"description": "Whatsapp Multi Version Paathu Bot.",
+	"logo": "https://i.imgur.com/1LWT08e.jpeg",
 	"keywords": [
 		"whatsapp",
 		"bot"
 	],
-	"repository": "https://github.com/Afx-Abu/Abu-MD",
+	"repository": "https://github.com/SUHAID-BROO/PAATHU",
 	"stack": "container",
     "env": { 
         "HANDLERS": {
             "description": "Prefix of commands. Can be also false",
             "required": true,
-            "value":".,"
+            "value":".,/"
         },
         "ANTILINK_WARN": {
             "description": "Groups for antilink (JIDS)",
@@ -42,7 +42,7 @@
         "STICKER_DATA": {
             "description": "Name of stickers created using bot. Can also split using ;",
             "required": true,
-            "value":"ᴀʙᴜ ᴍᴅ ᴡᴀ ʙᴏᴛ"
+            "value":"Paat"
         },
         "CHATBOT": {
             "description": "chat bot ! auto replay",
