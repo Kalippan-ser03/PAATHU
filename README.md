@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F7000&lines=WELCOME+TO+PAATHU+WA+BOT+REPO;CREATED+BY+SUHAID)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F7000&lines=𝐖𝐄𝐋𝐂𝐎𝐌𝐄+𝐓𝐎+𝐏𝐀𝐀𝐓𝐇𝐔+𝐖𝐀+𝐁𝐎𝐓+𝐑𝐄𝐏𝐎;𝐂𝐑𝐄𝐀𝐓𝐄𝐃+𝐁𝐘+𝐒𝐔𝐇𝐀𝐈𝐃+𝐁𝐑𝐎𝐎)](https://git.io/typing-svg)
  
   <p align="center">
 <span class="avatar"><img height='320' src="https://i.imgur.com/1LWT08e.jpeg"> </a></span> 
